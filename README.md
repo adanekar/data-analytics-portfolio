@@ -1,19 +1,17 @@
-data-analytics-portfolio
-│
-├── README.md
-│
-├── 01-Advanced-Excel
-│   └── BlinkIT-Sales-Analysis
-│
-├── 02-Power-BI
-│   ├── Amazon-Sales-Dashboard
-│   ├── Ecommerce-Sales-Dashboard
-│   ├── HR-Analytics
-│   └── Superstore-Sales-Dashboard
-│
-├── 03-Tableau
-│   ├── Amazon-Dashboard
-│   └── HR-Analytics
-│
-├── 04-Certificates
-│
+# 👋 Hi, I'm Anushka
+
+## Aspiring Data Analyst
+
+I'm passionate about turning raw data into meaningful business insights through dashboards and visualizations.
+
+### 🛠 Skills
+
+- Advanced Excel
+- Power BI
+- Tableau
+
+### 🚧 Portfolio Under Construction
+
+I'm currently adding my data analytics projects.
+
+Thank you for visiting!
